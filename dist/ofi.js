@@ -1,5 +1,5 @@
 /*! npm.im/object-fit-images 3.2.3 */
-var objectFitImages = (function () {
+var tp_objectFitImages = (function () {
 'use strict';
 
 var OFI = 'bfred-it:object-fit-images';
